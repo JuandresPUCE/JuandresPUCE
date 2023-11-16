@@ -22,9 +22,6 @@ En este repositorio, podrás explorar:
 
 Siéntete libre de explorar, clonar y contribuir a este repositorio. ¡Tus comentarios y sugerencias son bienvenidos!
 
-## Contacto
-
-Si tienes preguntas o simplemente quieres charlar sobre algún proyecto, no dudes en contactarme a través de [correo electrónico](mailto:tuemail@example.com) o [LinkedIn](enlace a tu perfil de LinkedIn).
 
 ¡Espero que encuentres este repositorio interesante y educativo!
 
